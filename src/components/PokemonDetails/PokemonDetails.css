@@ -33,3 +33,16 @@
 .pokemon-types {
   margin-top: 20px;
 }
+
+.similar-pokemons {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 3rem;
+}
+
+.pokemon-similar-boxes {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
